@@ -22,23 +22,22 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">App transacciones Azure, .Net, Aquitectura MVC</h3>
+<h3 align="center">App ScanPro Kotlin</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<a href="https://github.com/Navas99/scanpro.git" target="_blank">Link Proyecto ScanPro</a>
+<p>App desarrollada para gestión de almacenes, desarrollada en kotlin, uso profesional para PDAS Android</p>
+</div>                                                                                 
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Arquitectura MVC Fuctomic Gestion de Reservas Deportivas</h3>
 <div align="center">                                       
-<a href="" target="_blank"></a>
+<a href="https://github.com/Navas99/Futomic.git" target="_blank">Link Proyecto Fuctomic</a>
 <br>
 <p>
 
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>App desarrollada para reservas deportivas con .NET MVC</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -47,21 +46,21 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Azure Cloud Transacciones</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="" target="_blank">Link Proyecto Transacciones</a>
 
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto desarrolado en .NET usando arquitectura cloud Azure</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Angular</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="" target="_blank">Link Proyecto Angular</a>
 
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Angular</p>
 </div>
                                                                                       
 </td>  
