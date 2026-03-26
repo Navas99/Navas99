@@ -48,7 +48,7 @@
 <td width="50%">
 <h3 align="center">Azure Cloud Transacciones</h3>
 <div align="center">
-<a href="" target="_blank">Link Proyecto Transacciones</a>
+<a href="https://github.com/Navas99/Transacciones.git" target="_blank">Link Proyecto Transacciones</a>
 
 <p>Proyecto desarrolado en .NET usando arquitectura cloud Azure</p>
 </div>
